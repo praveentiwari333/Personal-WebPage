@@ -1,0 +1,139 @@
+.text-white{
+    background-color: rgb(5, 5, 90);
+    color: white;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.text-gray{
+    color: gray;
+}
+
+.img-1{
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 0.5rem;
+    margin-left: 50%;
+    margin-top:7%;
+}
+
+.nav{
+    height: 100vh;
+    width: 22%;
+    border-right: 2px solid #e5e7eb;
+}
+
+.top{
+    display: flex;
+}
+
+nav div{
+    width: 250px;
+    height: 42px;
+    display: flex;
+    margin-top: 15px;
+    font-size: large;
+} 
+
+nav .user i{
+   margin-left: 57%;
+   font-size: large;
+}
+
+nav .web i{
+    margin-left:70%;
+
+}
+
+nav .billing i{
+    margin-left:75%;
+}
+
+nav .setting i{
+    margin-left:70%
+}
+
+nav i{
+    margin-left: 77%;
+    color: gray;
+}
+
+.block{
+    display: flex;
+}
+
+.unsplash{
+    width: 1059px;
+    height: 70px;
+}
+
+.img-2{
+  height: 92px;
+  width: 92px;
+  border-radius: .5rem;
+  margin-top: 20px;
+}
+
+span{
+    color: gray;
+}
+
+.main-page{
+    display: flex;
+}
+
+.profile{
+    height: 350px;
+    width: 180px;
+    border: 2px solid #e5e7eb;
+    margin-top: 15px;
+    margin-left: 20px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+.info{
+    margin-left: 5%;
+}
+
+.schedule{
+    box-shadow: 1px 1px 1px 1px gray;
+    width:130%;
+}
+
+.schedule div{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.day{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-evenly;
+}
+.timetable{
+    display: flex;
+    width:700px;
+}
+
+.option{
+    width:450px;
+    box-shadow: 1px 1px 1px 1px gray;
+    margin-left: 10%;
+   
+}
+
+.option div{
+    height: 50px;
+    width: 50px;
+    background-color: skyblue;
+    border-radius: .5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
